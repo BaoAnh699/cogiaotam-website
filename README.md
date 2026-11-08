@@ -49,9 +49,11 @@ python -m http.server 8000
 
 1. Đẩy toàn bộ thư mục lên một repository (nhánh `main`).
 2. Vào **Settings → Pages → Deploy from a branch → `main` / `(root)`**.
-3. Tên miền riêng: nhập vào ô **Custom domain** và trỏ DNS như hướng dẫn của GitHub
-   (4 bản ghi A cho tên miền gốc, 1 bản ghi CNAME `www` → `<username>.github.io`).
-   GitHub sẽ tự tạo file `CNAME` trong repository.
+3. Tên miền riêng: file `CNAME` ở thư mục gốc phải chứa đúng tên miền (hiện tại là
+   `lophoccuatam.me`). Trong **Settings → Pages → Custom domain**, nhập cùng tên miền
+   và trỏ DNS theo hướng dẫn của GitHub (4 bản ghi A cho tên miền gốc, 1 bản ghi CNAME
+   `www` → `<username>.github.io`). Không xóa file `CNAME` khi tái cấu trúc hoặc tải
+   lại mã nguồn.
 
 ## Chỉnh sửa nội dung
 
