@@ -1,0 +1,875 @@
+[
+  {
+    "id": 13,
+    "title_zh": "复习一 工作与旅游",
+    "title_vi": "Ôn tập 1: Công việc & Du lịch (Bài 1 – Bài 4)",
+    "type": "review",
+    "description": "Hệ thống hóa từ vựng trọng tâm về Công ty, Xin việc, Du lịch và 8 cấu trúc ngữ pháp then chốt.",
+    "objectives": [
+      "Hệ thống hóa từ vựng trọng tâm về Công ty (Bài 1), Xin việc (Bài 2), Du lịch (Bài 3 & Bài 4).",
+      "Ôn tập 8 cấu trúc ngữ pháp: 挺……的, 是……的, 左右, 还是……吧, 多, A跟B一起V, Bổ ngữ 得, Bổ ngữ kết quả 好, 虽然……但是…….",
+      "Thực hành nghe – nói – dịch câu và viết đoạn văn ngắn theo tình huống."
+    ],
+    "vocabulary": [
+      {
+        "hanzi": "销售",
+        "pinyin": "xiāoshòu",
+        "type": "Động/Danh từ",
+        "meaning": "Kinh doanh, bán hàng"
+      },
+      {
+        "hanzi": "部门",
+        "pinyin": "bùmén",
+        "type": "Danh từ",
+        "meaning": "Phòng ban, bộ phận"
+      },
+      {
+        "hanzi": "同事",
+        "pinyin": "tóngshì",
+        "type": "Danh từ",
+        "meaning": "Đồng nghiệp"
+      },
+      {
+        "hanzi": "会议室",
+        "pinyin": "huìyìshì",
+        "type": "Danh từ",
+        "meaning": "Phòng họp"
+      },
+      {
+        "hanzi": "面试",
+        "pinyin": "miànshì",
+        "type": "Động/Danh từ",
+        "meaning": "Phỏng vấn"
+      },
+      {
+        "hanzi": "工资",
+        "pinyin": "gōngzī",
+        "type": "Danh từ",
+        "meaning": "Tiền lương"
+      },
+      {
+        "hanzi": "联系",
+        "pinyin": "liánxì",
+        "type": "Động từ",
+        "meaning": "Liên hệ"
+      },
+      {
+        "hanzi": "打算",
+        "pinyin": "dǎsuàn",
+        "type": "Động từ",
+        "meaning": "Dự định"
+      },
+      {
+        "hanzi": "出发",
+        "pinyin": "chūfā",
+        "type": "Động từ",
+        "meaning": "Xuất phát"
+      },
+      {
+        "hanzi": "礼物",
+        "pinyin": "lǐwù",
+        "type": "Danh từ",
+        "meaning": "Quà tặng"
+      },
+      {
+        "hanzi": "准备好",
+        "pinyin": "zhǔnbèi hǎo",
+        "type": "Động từ",
+        "meaning": "Chuẩn bị xong"
+      },
+      {
+        "hanzi": "护照",
+        "pinyin": "hùzhào",
+        "type": "Danh từ",
+        "meaning": "Hộ chiếu"
+      },
+      {
+        "hanzi": "人民币",
+        "pinyin": "rénmínbì",
+        "type": "Danh từ",
+        "meaning": "Nhân dân tệ"
+      },
+      {
+        "hanzi": "酒店",
+        "pinyin": "jiǔdiàn",
+        "type": "Danh từ",
+        "meaning": "Khách sạn"
+      },
+      {
+        "hanzi": "干净",
+        "pinyin": "gānjìng",
+        "type": "Tính từ",
+        "meaning": "Sạch sẽ"
+      },
+      {
+        "hanzi": "市中心",
+        "pinyin": "shì zhōngxīn",
+        "type": "Danh từ",
+        "meaning": "Trung tâm thành phố"
+      }
+    ],
+    "grammar": [
+      {
+        "structure": "1. 挺 + Tính từ + 的",
+        "explanation": "Diễn tả mức độ khá, tương đối cao (Khá là...)",
+        "examples": [
+          "这家公司挺好的。 (Công ty này khá tốt.)",
+          "他的中文挺好的。 (Tiếng Trung của anh ấy khá tốt.)"
+        ]
+      },
+      {
+        "structure": "2. 是……的",
+        "explanation": "Nhấn mạnh thời gian, địa điểm, phương thức, chủ thể của hành động đã xảy ra.",
+        "examples": [
+          "我是昨天到北京的。 (Tôi đến Bắc Kinh vào hôm qua.)",
+          "他是在网上买的。 (Anh ấy mua trên mạng.)"
+        ]
+      },
+      {
+        "structure": "3. Số lượng + 左右 / 多",
+        "explanation": "Biểu thị con số ước chừng, xấp xỉ hoặc nhiều hơn một số lượng cụ thể.",
+        "examples": [
+          "一个小时左右。 (Khoảng 1 tiếng đồng hồ.)",
+          "学了两年多汉语。 (Học tiếng Trung hơn 2 năm rồi.)",
+          "五千多块。 (Hơn năm nghìn tệ.)"
+        ]
+      },
+      {
+        "structure": "4. 还是……吧",
+        "explanation": "Đưa ra lời khuyên hoặc lựa chọn mà người nói thấy phù hợp hơn.",
+        "examples": [
+          "工资还是面试的时候再谈吧。 (Lương bổng thì để lúc phỏng vấn hãy bàn nhé.)"
+        ]
+      },
+      {
+        "structure": "5. A + 跟 + B + 一起 + V",
+        "explanation": "A cùng với B làm một việc gì đó.",
+        "examples": [
+          "我跟朋友一起去上海旅游。 (Tôi cùng bạn đi du lịch Thượng Hải.)"
+        ]
+      },
+      {
+        "structure": "6. Bổ ngữ trạng thái 得: V + 得 + (很) + Adj",
+        "explanation": "Đánh giá, miêu tả trạng thái hoặc kết quả của hành động.",
+        "examples": [
+          "我们玩得很开心。 (Chúng tôi chơi rất vui vẻ.)",
+          "他说得很好。 (Anh ấy nói rất tốt.)"
+        ]
+      },
+      {
+        "structure": "7. Bổ ngữ kết quả 好: V + 好",
+        "explanation": "Biểu thị hành động đã hoàn tất và đạt kết quả thỏa đáng.",
+        "examples": [
+          "你订好酒店了吗？ (Bạn đã đặt xong khách sạn chưa?)",
+          "我都准备好了。 (Tôi đều chuẩn bị xong xuôi rồi.)"
+        ]
+      },
+      {
+        "structure": "8. 虽然……但是……",
+        "explanation": "Biểu thị quan hệ chuyển ngoặt (Tuy... nhưng...).",
+        "examples": [
+          "虽然酒店离市中心有点远，但是很干净。 (Tuy khách sạn hơi xa trung tâm thành phố nhưng rất sạch sẽ.)"
+        ]
+      }
+    ],
+    "exercises_full": {
+      "fill_blanks": {
+        "word_bank": [
+          "开心",
+          "销售",
+          "左右",
+          "准备好",
+          "打算",
+          "面试",
+          "虽然",
+          "联系"
+        ],
+        "sentences": [
+          "1. 我现在在ABC旅游公司的________部门工作。",
+          "2. 明天上午十点我去东方公司________。",
+          "3. 坐车去公司要四十分钟________。",
+          "4. 这个周末我________跟家人一起去下龙旅游。",
+          "5. 我的行李已经________了，还带了护照和飞机票。",
+          "6. ________三百块的房间小，但是很干净。",
+          "7. 上个星期我们去成都旅游，玩得很________。",
+          "8. 这是我的手机号，有问题可以________我。"
+        ]
+      },
+      "reorder": [
+        {
+          "chunks": "是 / 我 / 在网上 / 看到 / 的 / 招聘信息",
+          "answer": "我是是在网上看到的招聘信息。"
+        },
+        {
+          "chunks": "还是 / 我们 / 明天 / 去 / 吧",
+          "answer": "我们还是明天去吧。"
+        },
+        {
+          "chunks": "玩 / 他们 / 很开心 / 得 / 在成都",
+          "answer": "他们在成都玩得很开心。"
+        },
+        {
+          "chunks": "换成了 / 文明 / 把越南盾 / 人民币",
+          "answer": "文明把越南盾换成了人民币。"
+        },
+        {
+          "chunks": "虽然 / 贵 / 五百块的房间 / 很漂亮 / 但是",
+          "answer": "虽然五百块的房间贵，但是很漂亮。"
+        }
+      ],
+      "translation": [
+        {
+          "vi": "Công ty tôi ở tầng 4, có khoảng 20 nhân viên.",
+          "zh": "我们公司在四楼，有二十个人左右。"
+        },
+        {
+          "vi": "Tôi đã học tiếng Trung hơn 2 năm rồi.",
+          "zh": "我已经学了两年多汉语了。"
+        },
+        {
+          "vi": "Cuối tuần này bạn dự định đi du lịch với ai?",
+          "zh": "这个周末你打算跟谁一起去旅游？"
+        },
+        {
+          "vi": "Bạn đã đặt xong khách sạn và mua vé máy bay chưa?",
+          "zh": "你订好酒店、买好飞机票了吗？"
+        },
+        {
+          "vi": "Tuy công việc hơi bận nhưng đồng nghiệp đều rất thân thiện.",
+          "zh": "虽然工作有点儿忙，但是同事们都很友好。"
+        }
+      ],
+      "writing_prompt": "Viết một đoạn văn ngắn (6–8 câu) giới thiệu về công việc hiện tại của bạn hoặc kế hoạch đi du lịch trong kỳ nghỉ sắp tới."
+    },
+    "exercises": [
+      {
+        "question": "A: 你订好酒店了吗？ - B: ________。",
+        "options": [
+          "A. 我订好了",
+          "B. 我没订好",
+          "C. 我打算订",
+          "D. 都是好的"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "“虽然五百块的房间贵，______很干净漂亮。”",
+        "options": [
+          "A. 因为",
+          "B. 但是",
+          "C. 所以",
+          "D. 而且"
+        ],
+        "answer": "B"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/lessons/review-13-1.jpg",
+        "caption": "Hình 1"
+      },
+      {
+        "url": "assets/images/lessons/review-13-2.jpg",
+        "caption": "Hình A"
+      },
+      {
+        "url": "assets/images/lessons/review-13-3.jpg",
+        "caption": "Hình B"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title_zh": "复习二 购物与节日",
+    "title_vi": "Ôn tập 2: Trang phục, Mua sắm & Ngày lễ (Bài 5 – Bài 8)",
+    "type": "review",
+    "description": "Củng cố từ vựng về Trang phục, Mua sắm, Đồ online, Ngày lễ và các cấu trúc 快到……了, 比/没有, Trợ từ 过.",
+    "objectives": [
+      "Củng cố từ vựng chủ đề Trang phục & màu sắc (Bài 5), Mua sắm & mặc cả (Bài 6), Mua hàng online (Bài 7), Các ngày lễ (Bài 8).",
+      "Hệ thống hóa các ngữ pháp: 快到……了, 如果……就……, 又……又……, Câu chữ 比 / 没有, Lặp lại động từ, Động từ năng nguyện 可以 / 能 / 会, Phó từ chỉ mức độ, Trợ từ 过.",
+      "Thực hành viết đoạn văn kể về trải nghiệm mua sắm trực tuyến."
+    ],
+    "vocabulary": [
+      {
+        "hanzi": "衬衫",
+        "pinyin": "chènshān",
+        "type": "Danh từ",
+        "meaning": "Áo sơ mi"
+      },
+      {
+        "hanzi": "牛仔裤",
+        "pinyin": "niúzǎikù",
+        "type": "Danh từ",
+        "meaning": "Quần bò, quần jean"
+      },
+      {
+        "hanzi": "外套",
+        "pinyin": "wàitào",
+        "type": "Danh từ",
+        "meaning": "Áo khoác"
+      },
+      {
+        "hanzi": "合适",
+        "pinyin": "héshì",
+        "type": "Tính từ",
+        "meaning": "Phù hợp, vừa vặn"
+      },
+      {
+        "hanzi": "舒服",
+        "pinyin": "shūfu",
+        "type": "Tính từ",
+        "meaning": "Thoải mái"
+      },
+      {
+        "hanzi": "质量",
+        "pinyin": "zhìliàng",
+        "type": "Danh từ",
+        "meaning": "Chất lượng"
+      },
+      {
+        "hanzi": "打折",
+        "pinyin": "dǎzhé",
+        "type": "Động từ",
+        "meaning": "Giảm giá"
+      },
+      {
+        "hanzi": "退货",
+        "pinyin": "tuìhuò",
+        "type": "Động từ",
+        "meaning": "Trả hàng"
+      },
+      {
+        "hanzi": "客服",
+        "pinyin": "kèfù",
+        "type": "Danh từ",
+        "meaning": "Chăm sóc khách hàng"
+      },
+      {
+        "hanzi": "包邮",
+        "pinyin": "bāoyóu",
+        "type": "Động từ",
+        "meaning": "Miễn phí vận chuyển (Freeship)"
+      },
+      {
+        "hanzi": "快递",
+        "pinyin": "kuàidì",
+        "type": "Danh từ",
+        "meaning": "Hàng chuyển phát nhanh"
+      },
+      {
+        "hanzi": "收到",
+        "pinyin": "shōudào",
+        "type": "Động từ",
+        "meaning": "Nhận được"
+      },
+      {
+        "hanzi": "春节",
+        "pinyin": "Chūnjié",
+        "type": "Danh từ",
+        "meaning": "Tết Nguyên Đán"
+      },
+      {
+        "hanzi": "打扫",
+        "pinyin": "dǎsǎo",
+        "type": "Động từ",
+        "meaning": "Dọn dẹp"
+      },
+      {
+        "hanzi": "月饼",
+        "pinyin": "yuèbǐng",
+        "type": "Danh từ",
+        "meaning": "Bánh trung thu"
+      },
+      {
+        "hanzi": "红包",
+        "pinyin": "hóngbāo",
+        "type": "Danh từ",
+        "meaning": "Bao lì xì"
+      }
+    ],
+    "grammar": [
+      {
+        "structure": "1. 快到……了",
+        "explanation": "Sắp đến thời điểm hoặc sự kiện gì rồi.",
+        "examples": [
+          "快到冬天了。 (Sắp đến mùa đông rồi.)",
+          "快到春节了。 (Sắp đến Tết rồi.)"
+        ]
+      },
+      {
+        "structure": "2. 如果……，(Chủ ngữ) + 就……",
+        "explanation": "Nếu... thì... (giả thiết và kết quả).",
+        "examples": [
+          "如果合适，我就买这件。 (Nếu vừa vặn, tôi sẽ mua chiếc này.)"
+        ]
+      },
+      {
+        "structure": "3. 又……又……",
+        "explanation": "Vừa... vừa... (nêu hai đặc điểm cùng tồn tại).",
+        "examples": [
+          "这件衣服又好看又便宜。 (Bộ quần áo này vừa đẹp vừa rẻ.)"
+        ]
+      },
+      {
+        "structure": "4. A + 比 + B + Adj / A + 没有 + B + Adj",
+        "explanation": "So sánh hơn / kém giữa hai sự vật.",
+        "examples": [
+          "网上的衣服比商店便宜得多。 (Quần áo trên mạng rẻ hơn ở cửa hàng nhiều.)",
+          "这件没有那件大。 (Chiếc này không to bằng chiếc kia.)"
+        ]
+      },
+      {
+        "structure": "5. Lặp lại động từ (VV / V一下)",
+        "explanation": "Diễn tả hành động diễn ra nhanh, thử làm một hành động hoặc tạo không khí nhẹ nhàng.",
+        "examples": [
+          "你可以试一试。 (Bạn có thể mặc thử một chút.)",
+          "你看看这件怎么样。 (Bạn xem chiếc này thế nào.)"
+        ]
+      },
+      {
+        "structure": "6. 可以 / 能 / 会",
+        "explanation": "Có thể: 可以 (cho phép), 能 (khả năng/hoàn cảnh), 会 (kỹ năng qua học tập).",
+        "examples": [
+          "这里可以扫码付款。 (Ở đây có thể quét mã thanh toán.)",
+          "我能帮你拿快递。 (Tôi có thể giúp bạn lấy gói hàng.)"
+        ]
+      },
+      {
+        "structure": "7. Trợ từ động thái 过",
+        "explanation": "Đã từng trải qua hành động hoặc kinh nghiệm trong quá khứ.",
+        "examples": [
+          "你在中国过过春节吗？ (Bạn từng đón Tết ở Trung Quốc chưa?)",
+          "我吃过北京烤鸭。 (Tôi đã từng ăn vịt quay Bắc Kinh.)"
+        ]
+      }
+    ],
+    "exercises_full": {
+      "fill_blanks": {
+        "word_bank": [
+          "包邮",
+          "比",
+          "比较",
+          "过",
+          "如果",
+          "能",
+          "祝",
+          "适合"
+        ],
+        "sentences": [
+          "1. 这件白衬衫很漂亮，________不贵，我就买一件。",
+          "2. 请问在网上买这本书________吗？几天________到？",
+          "3. 这双运动鞋________舒服。",
+          "4. 今天________昨天冷一点儿，你穿外套吧。",
+          "5. 我以前没吃________北京烤鸭，很想尝一尝。",
+          "6. 这条裤子大小很________，不长也不短。",
+          "7. 明天是你的生日，________你生日快乐！"
+        ]
+      },
+      "reorder": [
+        {
+          "chunks": "比 / 这件毛衣 / 便宜 / 那件 / 五十块",
+          "answer": "这件毛衣比那件便宜五十块。"
+        },
+        {
+          "chunks": "请 / 放在 / 帮我 / 家门口 / 把快递",
+          "answer": "请帮我把快递放在家门口。"
+        },
+        {
+          "chunks": "去过 / 你 / 中国的 / 哪些城市",
+          "answer": "你去过中国的哪些城市？"
+        },
+        {
+          "chunks": "如果 / 有时间 / 周末 / 去商场 / 我们 / 就",
+          "answer": "如果周末有时间，我们就去商场。"
+        },
+        {
+          "chunks": "送给 / 我 / 朋友 / 一个 / 生日礼物",
+          "answer": "我送给朋友一个生日礼物。"
+        }
+      ],
+      "translation": [
+        {
+          "vi": "Sắp đến Tết rồi, tôi dự định mua quần áo mới trên mạng.",
+          "zh": "快到春节了，我打算在网上买新衣服。"
+        },
+        {
+          "vi": "Quần áo ở trung tâm thương mại đang giảm giá 20%.",
+          "zh": "商场的衣服正在打八折。"
+        },
+        {
+          "vi": "Nếu chiếc áo sơ mi này hơi nhỏ, bạn có thể đổi cỡ lớn hơn.",
+          "zh": "如果这件衬衫有点儿小，你可以换大一号的。"
+        },
+        {
+          "vi": "Mua đồ trên mạng vừa rẻ vừa rất tiện lợi.",
+          "zh": "在网上买东西又便宜又非常方便。"
+        },
+        {
+          "vi": "Bạn đã từng ăn bánh chưng Việt Nam chưa?",
+          "zh": "你吃过越南粽子吗？"
+        }
+      ],
+      "writing_prompt": "Viết một đoạn văn ngắn (6–8 câu) kể về một lần bạn mua quà trên mạng để tặng người thân nhân dịp sinh nhật hoặc ngày lễ."
+    },
+    "exercises": [
+      {
+        "question": "A: 网上的衣服怎么样？ - B: 这里的衣服______好看______便宜。",
+        "options": [
+          "A. 又……又……",
+          "B. 虽然……但是……",
+          "C. 因为……所以……",
+          "D. 还是……吧"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "“今天的天气比昨天______得多。”",
+        "options": [
+          "A. 暖和",
+          "B. 挺好",
+          "C. 很高",
+          "D. 很好"
+        ],
+        "answer": "A"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/lessons/review-14-1.jpg",
+        "caption": "Hình 1"
+      },
+      {
+        "url": "assets/images/lessons/review-14-2.jpg",
+        "caption": "Hình 2"
+      },
+      {
+        "url": "assets/images/lessons/review-14-3.jpg",
+        "caption": "Hình A"
+      },
+      {
+        "url": "assets/images/lessons/review-14-4.jpg",
+        "caption": "Hình B"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title_zh": "常用祝福语与节日",
+    "title_vi": "Chuyên đề: Bộ câu chúc tiếng Trung & 15 Ngày lễ lớn",
+    "type": "special",
+    "description": "Toàn bộ câu chúc 4 chữ cát tường, công việc, sinh nhật, bình an và 26 từ vựng về 15 ngày lễ lớn kèm phong tục truyền thống.",
+    "objectives": [
+      "Nắm vững các câu chúc tiếng Trung thông dụng theo từng ngữ cảnh: Năm mới, Công việc, Sinh nhật, Sức khỏe, Đi xa.",
+      "Ghi nhớ tên gọi 15 ngày lễ lớn ở Việt Nam & Trung Quốc bằng tiếng Trung.",
+      "Mở rộng 26 từ vựng về phong tục đón Tết và lễ hội truyền thống."
+    ],
+    "categories": [
+      {
+        "category": "1. LỜI CHÚC NĂM MỚI & TẾT NGUYÊN ĐÁN (新年 / 春节)",
+        "wishes": [
+          {
+            "hanzi": "新年快乐！",
+            "pinyin": "Xīnnián kuàilè!",
+            "meaning": "Chúc mừng năm mới!"
+          },
+          {
+            "hanzi": "万事如意！",
+            "pinyin": "Wànshì rúyì!",
+            "meaning": "Vạn sự như ý!"
+          },
+          {
+            "hanzi": "心想事成！",
+            "pinyin": "Xīnxiǎng shìchéng!",
+            "meaning": "Cầu được ước thấy!"
+          },
+          {
+            "hanzi": "阖家幸福！",
+            "pinyin": "Héjiā xìngfú!",
+            "meaning": "Cả nhà hạnh phúc!"
+          },
+          {
+            "hanzi": "年年有余！",
+            "pinyin": "Niánnián yǒuyú!",
+            "meaning": "Quanh năm dư dả!"
+          },
+          {
+            "hanzi": "吉祥如意！",
+            "pinyin": "Jíxiáng rúyì!",
+            "meaning": "Cát tường như ý!"
+          },
+          {
+            "hanzi": "恭喜发财！",
+            "pinyin": "Gōngxǐ fācái!",
+            "meaning": "Cung hỷ phát tài!"
+          }
+        ]
+      },
+      {
+        "category": "2. LỜI CHÚC CÔNG VIỆC, ĐỒNG NGHIỆP & KINH DOANH (工作 / 生意)",
+        "wishes": [
+          {
+            "hanzi": "工作顺利！",
+            "pinyin": "Gōngzuò shùnlì!",
+            "meaning": "Công việc thuận lợi!"
+          },
+          {
+            "hanzi": "步步高升！",
+            "pinyin": "Bùbù gāoshēng!",
+            "meaning": "Từng bước thăng tiến!"
+          },
+          {
+            "hanzi": "事业有成！",
+            "pinyin": "Shìyè yǒuchéng!",
+            "meaning": "Sự nghiệp thành đạt!"
+          },
+          {
+            "hanzi": "开业大吉！",
+            "pinyin": "Kāiyè dàjí!",
+            "meaning": "Khai trương hồng phát!"
+          },
+          {
+            "hanzi": "生意兴隆！",
+            "pinyin": "Shēngyi xīnglóng!",
+            "meaning": "Buôn may bán đắt!"
+          },
+          {
+            "hanzi": "财源广进！",
+            "pinyin": "Cáiyuán guǎngjìn!",
+            "meaning": "Tiền tài vào như nước!"
+          }
+        ]
+      },
+      {
+        "category": "3. LỜI CHÚC SINH NHẬT, SỨC KHỎE & BÌNH AN",
+        "wishes": [
+          {
+            "hanzi": "祝你生日快乐！",
+            "pinyin": "Zhù nǐ shēngrì kuàilè!",
+            "meaning": "Chúc bạn sinh nhật vui vẻ!"
+          },
+          {
+            "hanzi": "天天开心！",
+            "pinyin": "Tiāntiān kāixīn!",
+            "meaning": "Mỗi ngày đều vui vẻ!"
+          },
+          {
+            "hanzi": "永远年轻！",
+            "pinyin": "Yǒngyuǎn niánqīng!",
+            "meaning": "Mãi mãi trẻ trung!"
+          },
+          {
+            "hanzi": "身体健康！",
+            "pinyin": "Shēntǐ jiànkāng!",
+            "meaning": "Dồi dào sức khỏe!"
+          },
+          {
+            "hanzi": "健康长寿！",
+            "pinyin": "Jiànkāng chángshòu!",
+            "meaning": "Khỏe mạnh sống lâu!"
+          },
+          {
+            "hanzi": "福如东海！",
+            "pinyin": "Fú rú Dōnghǎi!",
+            "meaning": "Phúc như Đông Hải!"
+          },
+          {
+            "hanzi": "寿比南山！",
+            "pinyin": "Shòu bǐ Nánshān!",
+            "meaning": "Thọ tỷ Nam Sơn!"
+          },
+          {
+            "hanzi": "一路顺风！",
+            "pinyin": "Yílù shùnfēng!",
+            "meaning": "Thuận buồm xuôi gió!"
+          },
+          {
+            "hanzi": "一路平安！",
+            "pinyin": "Yílù píng'ān!",
+            "meaning": "Thượng lộ bình an!"
+          },
+          {
+            "hanzi": "平平安安！",
+            "pinyin": "Píngpíng'ān'ān!",
+            "meaning": "Bình bình an an!"
+          }
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "hanzi": "元旦",
+        "pinyin": "Yuándàn",
+        "type": "Danh từ",
+        "meaning": "Tết Dương lịch (1/1)"
+      },
+      {
+        "hanzi": "春节",
+        "pinyin": "Chūnjié",
+        "type": "Danh từ",
+        "meaning": "Tết Nguyên Đán"
+      },
+      {
+        "hanzi": "除夕",
+        "pinyin": "Chúxī",
+        "type": "Danh từ",
+        "meaning": "Đêm Giao thừa"
+      },
+      {
+        "hanzi": "元宵节",
+        "pinyin": "Yuánxiāojié",
+        "type": "Danh từ",
+        "meaning": "Tết Nguyên Tiêu (Rằm tháng Giêng)"
+      },
+      {
+        "hanzi": "妇女节",
+        "pinyin": "Fùnǚjié",
+        "type": "Danh từ",
+        "meaning": "Ngày Quốc tế Phụ nữ (8/3)"
+      },
+      {
+        "hanzi": "清明节",
+        "pinyin": "Qīngmíngjié",
+        "type": "Danh từ",
+        "meaning": "Tết Thanh Minh"
+      },
+      {
+        "hanzi": "劳动节",
+        "pinyin": "Láodòngjié",
+        "type": "Danh từ",
+        "meaning": "Ngày Quốc tế Lao động (1/5)"
+      },
+      {
+        "hanzi": "端午节",
+        "pinyin": "Duānwǔjié",
+        "type": "Danh từ",
+        "meaning": "Tết Đoan Ngọ (5/5 ÂL)"
+      },
+      {
+        "hanzi": "儿童节",
+        "pinyin": "Értóngjié",
+        "type": "Danh từ",
+        "meaning": "Ngày Quốc tế Thiếu nhi (1/6)"
+      },
+      {
+        "hanzi": "七夕节",
+        "pinyin": "Qīxījié",
+        "type": "Danh từ",
+        "meaning": "Lễ Thất Tịch (7/7 ÂL)"
+      },
+      {
+        "hanzi": "中秋节",
+        "pinyin": "Zhōngqiūjié",
+        "type": "Danh từ",
+        "meaning": "Tết Trung Thu (15/8 ÂL)"
+      },
+      {
+        "hanzi": "国庆节",
+        "pinyin": "Guóqìngjié",
+        "type": "Danh từ",
+        "meaning": "Lễ Quốc Khánh"
+      },
+      {
+        "hanzi": "教师节",
+        "pinyin": "Jiàoshījié",
+        "type": "Danh từ",
+        "meaning": "Ngày Nhà giáo"
+      },
+      {
+        "hanzi": "圣诞节",
+        "pinyin": "Shèngdànjié",
+        "type": "Danh từ",
+        "meaning": "Lễ Giáng Sinh"
+      },
+      {
+        "hanzi": "情人节",
+        "pinyin": "Qíngrénjié",
+        "type": "Danh từ",
+        "meaning": "Lễ Tình nhân (14/2)"
+      },
+      {
+        "hanzi": "放假",
+        "pinyin": "fàngjià",
+        "type": "Động từ",
+        "meaning": "Nghỉ lễ, được nghỉ"
+      },
+      {
+        "hanzi": "团圆",
+        "pinyin": "tuányuán",
+        "type": "Động từ",
+        "meaning": "Đoàn viên, sum họp gia đình"
+      },
+      {
+        "hanzi": "年夜饭",
+        "pinyin": "niányèfàn",
+        "type": "Danh từ",
+        "meaning": "Bữa cơm tất niên"
+      },
+      {
+        "hanzi": "拜年",
+        "pinyin": "bàinián",
+        "type": "Động từ",
+        "meaning": "Chúc Tết"
+      },
+      {
+        "hanzi": "发红包",
+        "pinyin": "fā hóngbāo",
+        "type": "Cụm ĐT",
+        "meaning": "Phát bao lì xì"
+      },
+      {
+        "hanzi": "压岁钱",
+        "pinyin": "yāsuìqián",
+        "type": "Danh từ",
+        "meaning": "Tiền mừng tuổi"
+      },
+      {
+        "hanzi": "放烟花",
+        "pinyin": "fàng yānhuā",
+        "type": "Cụm ĐT",
+        "meaning": "Bắn pháo hoa"
+      },
+      {
+        "hanzi": "贴春联",
+        "pinyin": "tiē chūnlián",
+        "type": "Cụm ĐT",
+        "meaning": "Dán câu đối Tết"
+      },
+      {
+        "hanzi": "桃花",
+        "pinyin": "táohuā",
+        "type": "Danh từ",
+        "meaning": "Hoa đào"
+      },
+      {
+        "hanzi": "金橘树",
+        "pinyin": "jīnjúshù",
+        "type": "Danh từ",
+        "meaning": "Cây quất"
+      },
+      {
+        "hanzi": "传统",
+        "pinyin": "chuántǒng",
+        "type": "Danh/Tính từ",
+        "meaning": "Truyền thống"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/lessons/review-15-1.jpg",
+        "caption": "Hình A"
+      },
+      {
+        "url": "assets/images/lessons/review-15-2.jpg",
+        "caption": "Hình B"
+      },
+      {
+        "url": "assets/images/lessons/review-15-3.jpg",
+        "caption": "Hình C"
+      },
+      {
+        "url": "assets/images/lessons/review-15-4.jpg",
+        "caption": "Hình D"
+      }
+    ]
+  }
+]
